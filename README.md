@@ -89,3 +89,9 @@ It is **not adopted NBEF authority**. This link does not adopt Lean Civics, amen
 The interface preserves independent concept ownership, explicit unit relationships, student privacy, and unresolved-doctrine boundaries.
 
 Reference added October 23, 2026, on the Human Engineer’s instruction "make it so" following review of the proposed cross-repository interface.
+
+## Start your own master plan
+
+Before joining a team, every member, founders included, maps their own objectives, projects and tools and adopts the minimum values: the Regulative Principles of Liberty (AGCL 000, Rule S8). Start with the **[Master Plan Starter Kit](https://github.com/RuntimeRepublicUniversity/master-plan-template)** and Runtime Republic University lesson G0-L1.
+
+This link is informative only. It is **not adopted NBEF authority**: it does not adopt the starter kit or AGCL 000, amend NBEF CONTROL 00, or designate a CONTROL. Reference added November 18, 2026, on the Human Engineer's instruction.
